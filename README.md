@@ -1,3 +1,7 @@
+# Student Management System
+
+A simple Python program that allows users to manage student records from the command line.
+
 ## Project Structure
 
 student-management-system
